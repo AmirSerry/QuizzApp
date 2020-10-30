@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="quiz">Quiz</string>
+    <string name="question_1">what is found in the sky?</string>
+    <string name="question_2">True or False: Android Operation System for PCs?</string>
+    <string name="question_3">what is the number between six and eight? in letters</string>
+    <string name="question_4">what is the color of the sun?</string>
+    <string name="hint_1">Enter your answer here</string>
+    <string name="submit">Submit</string>
+    <string name="_4">building</string>
+    <string name="_3">stars</string>
+    <string name="_2">clouds</string>
+    <string name="_1">cars</string>
+    <string name="_false">False</string>
+    <string name="_true">True</string>
+</resources>
